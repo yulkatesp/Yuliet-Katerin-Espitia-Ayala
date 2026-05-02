@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuliet%20Espitia-E8828A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katerin-espitia-ayala/)
 [![Email](https://img.shields.io/badge/Email-katherineee12365%40gmail.com-E8828A?style=flat-square&logo=gmail&logoColor=white)](mailto:katherineee12365@gmail.com)
-[![Universidad](https://img.shields.io/badge/USB-Ing.%20de%20Sistemas%207mo%20sem.-555555?style=flat-square)](https://www.usb.edu.co)
+[![Universidad](https://img.shields.io/badge/USB-Ing.%20de%20Sistemas%209no%20sem.-555555?style=flat-square)](https://www.usbbog.edu.co)
 
 </div>
 

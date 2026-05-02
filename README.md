@@ -65,8 +65,8 @@ Soy estudiante de noveno semestre de Ingeniería de Sistemas en la Universidad d
 | [Agenda MVC](https://github.com/yulkatesp/AgendaTareas) | Sistema web de gestión de actividades, usuarios y permisos | Java · JSP · SQL · MVC |
 | [ODS 14 Vida Submarina](https://github.com/yulkatesp/AplicacionODS-VidaSubmarina) | App educativa sobre la vida marítima y los ODS de la ONU | React · Django · Expo GO |
 | [Dashboard Seguridad ISO](https://github.com/yulkatesp/Dashboard-GestionSeguridad) | Dashboard de monitoreo de activos basado en normas ISO | HTML · CSS |
-| [Emulador Retro](https://github.com/yulkatesp/EmuladorJuegos | Emulador de videojuegos clásicos con interfaz gráfica | Python · PyQt5 · Pygame |
-| [Lengua de Señas LSC] | Herramienta para aprender el abecedario en LSC | Python · PyQt5 · QtDesigner |
+| [Emulador Retro](https://github.com/yulkatesp/EmuladorJuegos) | Emulador de videojuegos clásicos con interfaz gráfica | Python · PyQt5 · Pygame |
+| Lengua de Señas LSC | Herramienta para aprender el abecedario en LSC | Python · PyQt5 · QtDesigner |
 
 
 ---

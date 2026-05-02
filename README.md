@@ -5,7 +5,7 @@
 **Desarrolladora Full Stack Jr. · Estudiante de Ingeniería de Sistemas**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuliet%20Espitia-E8828A?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuliet-espitia)
-[![Email](https://img.shields.io/badge/Email-katherine.espitia%40email.com-E8828A?style=flat-square&logo=gmail&logoColor=white)](mailto:katherine.espitia@email.com)
+[![Email](https://img.shields.io/badge/Email-katherine.espitia%40email.com-E8828A?style=flat-square&logo=gmail&logoColor=white)](mailto:katherineee12365@gmail.com)
 [![Universidad](https://img.shields.io/badge/USB-Ing.%20de%20Sistemas%207mo%20sem.-555555?style=flat-square)](https://www.usb.edu.co)
 
 </div>

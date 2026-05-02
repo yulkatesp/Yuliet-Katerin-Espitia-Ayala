@@ -86,9 +86,9 @@ Soy estudiante de noveno semestre de Ingeniería de Sistemas en la Universidad d
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yulkatesp-GITHUB&show_icons=true&theme=default&title_color=E8828A&icon_color=E8828A&text_color=555555&border_color=E8828A&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yulkatesp&show_icons=true&theme=default&title_color=E8828A&icon_color=E8828A&text_color=555555&border_color=E8828A&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yulkatesp-GITHUB&layout=compact&title_color=E8828A&text_color=555555&border_color=E8828A&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yulkatesp&layout=compact&title_color=E8828A&text_color=555555&border_color=E8828A&hide_border=false)
 
 </div>
 

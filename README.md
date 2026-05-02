@@ -58,7 +58,7 @@ Soy estudiante de noveno semestre de Ingeniería de Sistemas en la Universidad d
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [Portafolio de proyectos](https://kat-portafolio.streamlit.app/) | Este es mi portafolio de proyectos desarrollado en HTML · CSS · JavaScript |
+| [Portafolio de proyectos](https://kat-portafolio.streamlit.app/) | Este es mi portafolio de proyectos podrás ver todos los proyectos con demo | HTML · CSS · JavaScript |
 | [Agenda Estudiantil](https://github.com/yulkatesp/AplicacionM-vilAgenda) | App móvil CRUD para gestión académica con exámenes, tareas y calendario | Kotlin · Java · PHP · MySQL |
 | [Auditoría ISO 27001](https://github.com/yulkatesp/Auditoria27001) | Checklist de controles ISO con reportes en Excel, PDF y dashboards | Python · Django · ISO 27001 |
 | [Gestor de Citas Médicas](https://github.com/yulkatesp/GestorCitas) | App web para agendamiento de citas médicas, desplegada en Railway | JavaScript · Node.js · HTML/CSS |
